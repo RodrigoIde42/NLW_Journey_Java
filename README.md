@@ -1,6 +1,6 @@
 # Greetings Coders! 
 
-I made this repository following the Next Level Week Journey from day 1 until now(currently on day 2).
+I made this repository following the Next Level Week Journey from day 1 to day 3, now I'll continue to improve some things in my code following the challenges they added for us at the final day.
 
 ## Technologies
 This code is being made using Java as main language, but I'm also using Spring Boot, and some other dependencies, like 
